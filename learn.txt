@@ -2,3 +2,8 @@ This contains things I learned yesterday.
 
 
 cat "filename" | cut -f2 -d' '
+
+for line in open('/Users/ardec/miami-python/2012.12.15.txt')
+	print line
+
+
