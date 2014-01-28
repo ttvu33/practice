@@ -1,1 +1,4 @@
 This contains things I learned yesterday.
+
+
+cat "filename" | cut -f2 -d' '
